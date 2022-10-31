@@ -6,4 +6,5 @@
 По итогу были получены две матрица, разбитая по батчам и графики. 
 
 Запросы в данном репозитории разбиты на части. 
-https://github.com/BelieveIN123/Data-research-Analysis-by-clusters/blob/main/Схематичный%20итог.jpg
+
+![alt text](https://github.com/BelieveIN123/Data-research-Analysis-by-clusters/blob/main/Схематичный%20итог.jpg)
